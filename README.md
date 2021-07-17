@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wisdom-ke
-- 👀 I’m interested in hardware design for Wireless connectivity.
-- 🌱 I’m currently learning Software Defined Radio,Radar technology be applied for IOT，and so on。
+- 👀 I’m interested in Hardware design for Wireless communication,smart hardware,
+- 🌱 I’m currently learning Software Defined Radio,Radar technology be applied for IOT,and so on。
 - 💞️ I’m looking to collaborate on SDR.
 - 📫 How to reach me ...
 
